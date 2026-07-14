@@ -35,7 +35,7 @@ const PRODUCTS = [
   // ---- AirPods ----
   { id: 14, name: "AirPods 2nd Gen",     category: "airpods",     price: 65000,  image: "images/Airpods 2nd Gen.jpg" },
   { id: 15, name: "AirPods Pro 2",       category: "airpods",     price: 165000, image: "images/Airpods pro 2.jpg" },
-  { id: 16, name: "AirPods Max",         category: "airpods",     price: 420000, image: "images/Airpods Max.jpg" },
+  { id: 16, name: "AirPods Max",         category: "airpods",     price: 420000, image: "images/AirPods Max.jpg" },
 
   // ---- Smart Watches ----
   { id: 17, name: "Smart Watch Series 8 (Clone)", category: "smartwatches", price: 22000,  image: "images/Smart Watch series 8.jpg" },
