@@ -60,10 +60,10 @@ const PRODUCTS = [
 
   // ---- Phone Cases ----
   { id: 28, name: "Silicone Phone Case",  category: "cases", price: 3500, image: "images/silicon case.jpg" },
-  { id: 29, name: "Leather Wallet Case",  category: "cases", price: 6500, image: "images/Leather wallet Case.jpg" },
+  { id: 29, name: "Leather Wallet Case",  category: "cases", price: 6500, image: "images/Leather wallet case (2).jpg" },
 
   // ---- Screen Protectors ----
-  { id: 30, name: "Tempered Glass Screen Protector", category: "protectors", price: 2000, image: "images/Tempered Glass.jpg" },
+  { id: 30, name: "Tempered Glass Screen Protector", category: "protectors", price: 2000, image: "images/Tempered glass.jpg" },
   { id: 31, name: "Privacy Screen Protector",        category: "protectors", price: 3000, image: "images/Privacy protector.jpg" },
 
   // ---- Other Accessories ----
